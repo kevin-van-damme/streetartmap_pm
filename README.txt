@@ -1,1 +1,1 @@
-Project StreetArtMap
+Project StreetArtMap - Only for Project Management
